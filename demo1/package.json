@@ -1,0 +1,29 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "webpack demo1",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config=config/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/win1866/tool.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/win1866/tool/issues"
+  },
+  "homepage": "https://github.com/win1866/tool#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+   
+  }
+}
